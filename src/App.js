@@ -19,6 +19,9 @@ class App extends Component {
       "demo file",
       this.state.selectedFile,
       this.state.selectedFile.name
+
+
+      
     )
     //call api
   
